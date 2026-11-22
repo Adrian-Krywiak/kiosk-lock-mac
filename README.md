@@ -6,6 +6,10 @@ It covers every display, hides the Dock and menu bar, blocks app switching and F
 
 Good for: finishing an assignment in Google Docs, a LeetCode session, studying from one course site, or making a "work laptop" mode that a friend controls.
 
+![The lock covering the screen, a wrong password being rejected, then the friend password unlocking it](docs/demo.gif)
+
+*The lock in action: a wrong password is rejected, the friend's password unlocks it. ([MP4](docs/demo.mp4))*
+
 ## Try it
 
 You need Python 3 with PyObjC:
